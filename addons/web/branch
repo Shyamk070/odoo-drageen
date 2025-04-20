@@ -1,0 +1,2 @@
+git clone https://github.com/odoo/odoo.git --depth 1 --branch 18.0
+addons_path = /opt/render/project/src/odoo/addons,/opt/render/project/src/odoo/odoo/addons
